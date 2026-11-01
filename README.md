@@ -9,10 +9,7 @@ npm install
 npm run dev
 ```
 
-افتح [http://
-mediaoplus.net](http://
-mediaoplus.net)
-
+[افتح موقع فيترين](https://mediaoplus.net)
 ## المسارات
 
 - `/` الصفحة التسويقية
