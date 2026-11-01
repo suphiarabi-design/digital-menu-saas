@@ -9,7 +9,8 @@ npm install
 npm run dev
 ```
 
-[افتح موقع فيترين](https://mediaoplus.net)
+افتح [http://localhost:3000](http://localhost:3000)
+
 ## المسارات
 
 - `/` الصفحة التسويقية
