@@ -9,7 +9,9 @@ npm install
 npm run dev
 ```
 
-افتح [http://localhost:3000](http://localhost:3000)
+افتح [http://
+mediaoplus.net](http://
+mediaoplus.net)
 
 ## المسارات
 
